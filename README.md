@@ -25,15 +25,13 @@ Le travail sera évalué sur le niveau de fonctionnalité atteint. Un niveau de 
 * Suppression de todo (client et serveur)
 * Permanence des todos
 
-## Extra 1 - Connexion à une DB
+## Extra 1 - Utilisation d'une plate-forme fullstack
+Votre serveur utilise une plate-forme intégré (comme Next.js ou blitzjs) pour faire le serveur et l'application.
+
+## Extra 2 - Connexion à une DB
 Votre serveur doit utiliser une base de données externe de votre choix.
 Les données doivent être permanente entre un redémarrage du serveur.
 
-## Extra 2 - Déploiement en ligne
+## Extra 3 - Déploiement en ligne
 Utiliser une plateforme externe (ex: Heroku) pour mettre votre application en ligne.
 
-## Extra 3 - Ajout d'une action additionnelle pour les todos
-Ajouter une action pour compléter un todo sans le supprimer. Les todo complétés doivent pouvoir être affichés, cacher ou afficher à la fin de la liste.
-
-## Extra 4 - Catégorisation des todo
-Ajouter la possibilité d'avoir des catégories pour les todos. Il doit être possible de filtrer les todos par catégorie.
