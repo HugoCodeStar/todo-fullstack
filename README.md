@@ -33,5 +33,5 @@ Votre serveur doit utiliser une base de données externe de votre choix.
 Les données doivent être permanente entre un redémarrage du serveur.
 
 ## Extra 3 - Déploiement en ligne
-Utiliser une plateforme externe (ex: Heroku) pour mettre votre application en ligne.
+Utiliser une plateforme externe (ex: Vercel, Render, fly.io) pour mettre votre application en ligne.
 
