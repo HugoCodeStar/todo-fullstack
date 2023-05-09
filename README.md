@@ -18,20 +18,20 @@ Le client React doit au moins avoir les components suivants (vous pouvez en cré
 
 
 # Critères d'évaluations
-Le travail sera évalué sur le niveau de fonctionnalité atteint. Un niveau de fonctionnalité de base est demandé et plusieurs extra sont disponibles.
+Le travail sera évalué sur le niveau de fonctionnalité atteint. Un niveau de fonctionnalité de base est demandé et paliers sont ensuite disponibles.
 
 ## Base (MVP)
 * Ajout de todo (client et serveur)
 * Suppression de todo (client et serveur)
 * Permanence des todos
 
-## Extra 1 - Utilisation d'une plate-forme fullstack
+## Palier 1 - Utilisation d'une plate-forme fullstack
 Votre serveur utilise une plate-forme intégré (comme Next.js ou blitzjs) pour faire le serveur et l'application.
 
-## Extra 2 - Connexion à une DB
+## Palier 2 - Connexion à une DB
 Votre serveur doit utiliser une base de données externe de votre choix.
 Les données doivent être permanente entre un redémarrage du serveur.
 
-## Extra 3 - Déploiement en ligne
+## Palier 3 - Déploiement en ligne
 Utiliser une plateforme externe (ex: Vercel, Render, fly.io) pour mettre votre application en ligne.
 
